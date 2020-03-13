@@ -1,6 +1,4 @@
-{--Nadav Spinco 313589996
-Shimon Arshavsky 312119126
---}
+
 {-# OPTIONS -Wall #-} 
 module Minesweeper
     ( 
